@@ -2,3 +2,10 @@ h1{
     color: blueviolet;
     
 }
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+span{
+    color: rgb(248, 237, 18);
+    font-size: 200%;
+}
