@@ -9,3 +9,10 @@ span{
     color: rgb(248, 237, 18);
     font-size: 200%;
 }
+section {
+    display: flex;
+
+}
+.image{
+    width: 70%;
+}
